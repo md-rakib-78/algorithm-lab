@@ -1,3 +1,9 @@
+This repository contains implementations of common Data Structures and Algorithms using Java.
+All programs are written in Java and executed using Visual Studio Code / you may use another IDE.
+Most programs take input from .txt files to simulate user input for algorithm testing.
+
+The purpose of this repository is to practice and demonstrate algorithm concepts used in Computer Science and Software Engineering.
+
 # Implemented Algorithms
 This repository includes the following algorithms:
 
